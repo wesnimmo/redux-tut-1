@@ -29,7 +29,6 @@ const ProductComponent = () => {
       )
     })
    
-    
     return (
       <>
         {renderList}
